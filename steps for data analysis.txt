@@ -1,0 +1,10 @@
+
+1.)first remove duplicates.26 removed from table.
+
+2.) Marital Status:- change m to married and s to single likewise for gender m to male and f to female.
+
+3.) change income to currenct format and remove unnessacery decimals.
+
+4.) classified age into different categroies using =IF(L5>54,"Old",IF(L5>=31,"Middle Age",IF(L5<31,"Adolescent","Invalid"))) formula.we classified it bcoz during visualization it's difficult to understand graphs.
+
+5.)creating pivot tables and making visualizations.
